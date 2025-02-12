@@ -56,8 +56,4 @@
 
 <p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>🔗 <b>LinkedIn</b>: george-zummar<br>🐙 <b>GitHub</b>: gogo45ish</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/gogo45ish/gogo45ish/output/snake.svg" alt="Snake animation" />
-
-###
