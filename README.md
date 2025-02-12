@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>📞 <b>Phone</b>: +7 916-145-8797<br>🔗 <b>LinkedIn</b>: [Your LinkedIn Profile](#)<br>🐙 <b>GitHub</b>: [Your GitHub Profile](#)</p>
+<p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>🔗 <b>LinkedIn</b>: george-zummar(#)<br>🐙 <b>GitHub</b>: gogo45ish(#)</p>
 
 ###
 
