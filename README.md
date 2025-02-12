@@ -1,8 +1,18 @@
-# 👋 Hi, I'm George Zummar  
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### 💻 **Full-Stack Developer | React & Node.js Enthusiast**  
+###
 
----
+<p align="left">My name is George Zummar and I'm a software engineer from Russia</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Golang<br>🎲 Fun fact: I am a runner.</p>
+
+###
 
 <h2 align="left">I code with</h2>
 
@@ -18,33 +28,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
----
+###
 
-### 🚀 **Projects**  
-- **Expert Commission System** (DGTU):  
-  - Built a full-stack app (React + Node.js) to automate commission formation.  
-  - Integrated K-means clustering (Python) for data analysis.  
+<h2 align="left">Projects</h2>
 
-- **Sentiment Analysis System**:  
-  - Developed a sentiment classifier using TensorFlow.  
-  - Backend: Node.js, Frontend: React, Database: MySQL.  
+###
 
----
+<p align="left">🚀 <b>Expert Commission System</b>: Full-stack app (React + Node.js) for automating commission formation.<br>🤖 <b>Sentiment Analysis System</b>: Built a sentiment classifier using TensorFlow and integrated it into a React app.</p>
 
-### 📚 **Education**  
-- **Master's in Software Engineering** | DGTU (Rostov-on-Don, Russia)  
-- **Bachelor's in Software Engineering** | Bethlehem University (Palestine)  
+###
 
----
+<h2 align="left">Education</h2>
 
-### 📫 **Contact Me**  
-- **Email**: george.zummar.z@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+###
 
----
+<p align="left">🎓 <b>Master's in Software Engineering</b> | DGTU (Rostov-on-Don, Russia)<br>🎓 <b>Bachelor's in Software Engineering</b> | Bethlehem University (Palestine)</p>
 
-✨ **Open to new opportunities!** Let's build something amazing together!  
+###
 
+<h2 align="left">Contact Me</h2>
 
+###
+
+<p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>📞 <b>Phone</b>: +7 916-145-8797<br>🔗 <b>LinkedIn</b>: [Your LinkedIn Profile](#)<br>🐙 <b>GitHub</b>: [Your GitHub Profile](#)</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/gogo45ish/gogo45ish/output/snake.svg" alt="Snake animation" />
+
+###
