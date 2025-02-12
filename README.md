@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>🔗 <b>LinkedIn</b>: george-zummar(#)<br>🐙 <b>GitHub</b>: gogo45ish(#)</p>
+<p align="left">📧 <b>Email</b>: george.zummar.z@gmail.com<br>🔗 <b>LinkedIn</b>: george-zummar<br>🐙 <b>GitHub</b>: gogo45ish</p>
 
 ###
 
