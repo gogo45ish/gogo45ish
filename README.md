@@ -54,6 +54,6 @@
 
 ###
 
-<p align="left">📧 <b>Email</b>: <a href="mailto:george.zummar.z@gmail.com">george.zummar.z@gmail.com</a><br>🔗 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/george-zummar" target="_blank">george-zummar</a><br>🐙 <b>GitHub</b>: <a href="https://github.com/gogo45ish" target="_blank">gogo45ish</a></p>
+<p align="left">📧 <b>Email</b>: <a href="mailto:george.zummar.z@gmail.com">george.zummar.z@gmail.com</a><br>🔗 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/george-zummar" target="_blank">george-zummar</a><br>✈️ <b>Telegram</b>: <a href="https://t.me/itsnotzuma" target="_blank">@itsnotzuma</a></p>
 
 
